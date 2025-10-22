@@ -10,9 +10,5 @@
 > - ***paragraph*** 
 > - ***img*** 
 > - ***br*** 
-**PICTURE**
-
-![:PROJECT:](./Desktop%20(1).png)
-
-
+**Link**
 * > **My picture** **_**[ GO](https://https://www.figma.com/design/oWun2mjBBfpqafFN1Ag04a/MUNCIM.RO?node-id=1-439&t=Ne89FNdRz2dTW5l2-0).
