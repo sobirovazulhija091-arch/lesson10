@@ -13,6 +13,7 @@
     --color-green-500: oklch(72.3% 0.219 149.579);
     --color-cyan-500: oklch(71.5% 0.143 215.221);
     --color-blue-500: oklch(62.3% 0.214 259.815);
+    --color-purple-400: oklch(71.4% 0.203 305.504);
     --color-black: #000;
     --color-white: #fff;
     --spacing: 0.25rem;
@@ -200,6 +201,9 @@
   }
   .mt-\[40px\] {
     margin-top: 40px;
+  }
+  .mt-\[70px\] {
+    margin-top: 70px;
   }
   .mt-\[80px\] {
     margin-top: 80px;
@@ -402,6 +406,9 @@
   }
   .bg-green-300 {
     background-color: var(--color-green-300);
+  }
+  .bg-purple-400 {
+    background-color: var(--color-purple-400);
   }
   .bg-white {
     background-color: var(--color-white);
