@@ -10,6 +10,7 @@
     --color-amber-300: oklch(87.9% 0.169 91.605);
     --color-yellow-50: oklch(98.7% 0.026 102.212);
     --color-green-300: oklch(87.1% 0.15 154.449);
+    --color-green-400: oklch(79.2% 0.209 151.711);
     --color-green-500: oklch(72.3% 0.219 149.579);
     --color-cyan-500: oklch(71.5% 0.143 215.221);
     --color-blue-500: oklch(62.3% 0.214 259.815);
@@ -202,6 +203,9 @@
   .mt-\[40px\] {
     margin-top: 40px;
   }
+  .mt-\[50px\] {
+    margin-top: 50px;
+  }
   .mt-\[70px\] {
     margin-top: 70px;
   }
@@ -217,8 +221,23 @@
   .mr-\[200px\] {
     margin-right: 200px;
   }
+  .mb-\[10px\] {
+    margin-bottom: 10px;
+  }
+  .mb-\[20px\] {
+    margin-bottom: 20px;
+  }
   .ml-\[200px\] {
     margin-left: 200px;
+  }
+  .ml-\[500px\] {
+    margin-left: 500px;
+  }
+  .ml-\[700px\] {
+    margin-left: 700px;
+  }
+  .ml-\[800px\] {
+    margin-left: 800px;
   }
   .flex {
     display: flex;
@@ -244,6 +263,18 @@
   .h-\[192px\] {
     height: 192px;
   }
+  .h-\[252px\] {
+    height: 252px;
+  }
+  .h-\[300px\] {
+    height: 300px;
+  }
+  .h-\[300xp\] {
+    height: 300xp;
+  }
+  .h-\[400px\] {
+    height: 400px;
+  }
   .h-\[500px\] {
     height: 500px;
   }
@@ -258,6 +289,9 @@
   }
   .h-\[598px\] {
     height: 598px;
+  }
+  .h-\[600px\] {
+    height: 600px;
   }
   .h-\[632px\] {
     height: 632px;
@@ -297,6 +331,12 @@
   }
   .w-\[81px\] {
     width: 81px;
+  }
+  .w-\[90\%\] {
+    width: 90%;
+  }
+  .w-\[96\%\] {
+    width: 96%;
   }
   .w-\[123px\] {
     width: 123px;
@@ -343,6 +383,9 @@
   .w-\[688px\] {
     width: 688px;
   }
+  .w-\[700px\] {
+    width: 700px;
+  }
   .w-full {
     width: 100%;
   }
@@ -352,11 +395,17 @@
   .resize {
     resize: both;
   }
+  .flex-row {
+    flex-direction: row;
+  }
   .items-center {
     align-items: center;
   }
   .justify-around {
     justify-content: space-around;
+  }
+  .justify-between {
+    justify-content: space-between;
   }
   .justify-center {
     justify-content: center;
@@ -366,6 +415,9 @@
   }
   .gap-5 {
     gap: calc(var(--spacing) * 5);
+  }
+  .gap-\[20px\] {
+    gap: 20px;
   }
   .gap-\[40px\] {
     gap: 40px;
@@ -406,6 +458,9 @@
   }
   .bg-green-300 {
     background-color: var(--color-green-300);
+  }
+  .bg-green-400 {
+    background-color: var(--color-green-400);
   }
   .bg-purple-400 {
     background-color: var(--color-purple-400);
@@ -465,6 +520,10 @@
   .text-3xl {
     font-size: var(--text-3xl);
     line-height: var(--tw-leading, var(--text-3xl--line-height));
+  }
+  .text-4xl {
+    font-size: var(--text-4xl);
+    line-height: var(--tw-leading, var(--text-4xl--line-height));
   }
   .text-6xl {
     font-size: var(--text-6xl);
