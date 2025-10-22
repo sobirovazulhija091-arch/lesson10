@@ -11,4 +11,4 @@
 > - ***img*** 
 > - ***br*** 
 **Link**
-* > **My picture** **_**[figma](https://https://www.figma.com/design/oWun2mjBBfpqafFN1Ag04a/MUNCIM.RO?node-id=1-439&t=Ne89FNdRz2dTW5l2-0).
+* **My picture** **_**[figma](https://https://www.figma.com/design/oWun2mjBBfpqafFN1Ag04a/MUNCIM.RO?node-id=1-439&t=Ne89FNdRz2dTW5l2-0).
